@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXTINF:9.009,
+http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+#EXTINF:10.010,
+http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+#EXT-X-ENDLIST
