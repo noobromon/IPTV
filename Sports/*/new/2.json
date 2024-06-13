@@ -4,12 +4,12 @@
             "url": "https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=lv1SWlrr276oORGn13Hifw&expires=1718471015&user=c15be118d93a464dabf77260596012cf"
         },
         "GTV": {
-            "url": "https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=aRq2CVvmW0njAtR1moemZQ&expires=1717644888&user=c15be118d93a464dabf77260596012cf"
+            "url": "https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/chunks.m3u8?expires=1718481656&md5=c8UxxvjAjSOiv2VB1f9Pgg&user=c15be118d93a464dabf77260596012cf"
         },
-	    "demo": {
+	"demo": {
             "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
         },
-	    "T-S-S2": {
+	"T-S-S2": {
             "url": "https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=aRq2CVvmW0njAtR1moemZQ&expires=1717644888&user=c15be118d93a464dabf77260596012cf"
         },
         "NAGORIK": {
