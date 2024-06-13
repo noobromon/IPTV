@@ -1,11 +1,14 @@
 {
+  "channels": {
     "T-S-S1": {
-        "url": "https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=lv1SWlrr276oORGn13Hifw&expires=1718471015&user=c15be118d93a464dabf77260596012cf"
+      "url": "https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=lv1SWlrr276oORGn13Hifw&expires=1718471015&user=c15be118d93a464dabf77260596012cf"
     },
     "T-S-S2": {
-        "url": "https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=aRq2CVvmW0njAtR1moemZQ&expires=1717644888&user=c15be118d93a464dabf77260596012cf"
+      "url": "https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=aRq2CVvmW0njAtR1moemZQ&expires=1717644888&user=c15be118d93a464dabf77260596012cf"
     },
     "NAGORIK": {
-        "url": "https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=yK9tw58EHOoF8_6kuHPeiw&expires=1718470210&user=c15be118d93a464dabf77260596012cf"
+      "url": "https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=yK9tw58EHOoF8_6kuHPeiw&expires=1718470210&user=c15be118d93a464dabf77260596012cf"
     }
+    // Add more channels here if needed
+  }
 }
