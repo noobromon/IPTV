@@ -1,7 +1,7 @@
 {
     "channels": {
         "T-S-S1": {
-            "url": "https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=lv1SWlrr276oORGn13Hifw&expires=1718471015&user=c15be118d93a464dabf77260596012cf"
+            "url": "https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=4Nav-mafHizgJ6wjNy824A&expires=1718689036&user=c15be118d93a464dabf77260596012cf"
         },
         "GTV": {
             "url": "https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/chunks.m3u8?expires=1718481656&md5=c8UxxvjAjSOiv2VB1f9Pgg&user=c15be118d93a464dabf77260596012cf"
@@ -13,7 +13,7 @@
             "url": "https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=aRq2CVvmW0njAtR1moemZQ&expires=1717644888&user=c15be118d93a464dabf77260596012cf"
         },
         "NAGORIK": {
-            "url": "https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=yK9tw58EHOoF8_6kuHPeiw&expires=1718470210&user=c15be118d93a464dabf77260596012cf"
+            "url": "https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=6TQgGJS0a_vFt4DDeBxKVw&expires=1718688835&user=c15be118d93a464dabf77260596012cf"
         }
     }
 }
