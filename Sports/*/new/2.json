@@ -4,7 +4,7 @@
             "url": "https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=4Nav-mafHizgJ6wjNy824A&expires=1718689036&user=c15be118d93a464dabf77260596012cf"
         },
         "GTV": {
-            "url": "https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/chunks.m3u8?expires=1718481656&md5=c8UxxvjAjSOiv2VB1f9Pgg&user=c15be118d93a464dabf77260596012cf"
+            "url": "https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=aAAMdgiBHad_CGinCHTP1A&expires=1718743387&user=c15be118d93a464dabf77260596012cf"
         },
 	"demo": {
             "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
