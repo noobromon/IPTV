@@ -1,0 +1,89 @@
+{
+  "sports": {
+    "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+  },
+  "animation": {
+    "url": "https://iptv-org.github.io/iptv/categories/animation.m3u"
+  },
+  "auto": {
+    "url": "https://iptv-org.github.io/iptv/categories/auto.m3u"
+  },
+  "business": {
+    "url": "https://iptv-org.github.io/iptv/categories/business.m3u"
+  },
+  "classic": {
+    "url": "https://iptv-org.github.io/iptv/categories/classic.m3u"
+  },
+  "comedy": {
+    "url": "https://iptv-org.github.io/iptv/categories/comedy.m3u"
+  },
+  "cooking": {
+    "url": "https://iptv-org.github.io/iptv/categories/cooking.m3u"
+  },
+  "culture": {
+    "url": "https://iptv-org.github.io/iptv/categories/culture.m3u"
+  },
+  "documentary": {
+    "url": "https://iptv-org.github.io/iptv/categories/documentary.m3u"
+  },
+  "education": {
+    "url": "https://iptv-org.github.io/iptv/categories/education.m3u"
+  },
+  "entertainment": {
+    "url": "https://iptv-org.github.io/iptv/categories/entertainment.m3u"
+  },
+  "family": {
+    "url": "https://iptv-org.github.io/iptv/categories/family.m3u"
+  },
+  "general": {
+    "url": "https://iptv-org.github.io/iptv/categories/general.m3u"
+  },
+  "kids": {
+    "url": "https://iptv-org.github.io/iptv/categories/kids.m3u"
+  },
+  "legislative": {
+    "url": "https://iptv-org.github.io/iptv/categories/legislative.m3u"
+  },
+  "lifestyle": {
+    "url": "https://iptv-org.github.io/iptv/categories/lifestyle.m3u"
+  },
+  "movies": {
+    "url": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+  },
+  "music": {
+    "url": "https://iptv-org.github.io/iptv/categories/music.m3u"
+  },
+  "news": {
+    "url": "https://iptv-org.github.io/iptv/categories/news.m3u"
+  },
+  "outdoor": {
+    "url": "https://iptv-org.github.io/iptv/categories/outdoor.m3u"
+  },
+  "relax": {
+    "url": "https://iptv-org.github.io/iptv/categories/relax.m3u"
+  },
+  "religious": {
+    "url": "https://iptv-org.github.io/iptv/categories/religious.m3u"
+  },
+  "science": {
+    "url": "https://iptv-org.github.io/iptv/categories/science.m3u"
+  },
+  "series": {
+    "url": "https://iptv-org.github.io/iptv/categories/series.m3u"
+  },
+  "shop": {
+    "url": "https://iptv-org.github.io/iptv/categories/shop.m3u"
+  },
+  "travel": {
+    "url": "https://iptv-org.github.io/iptv/categories/travel.m3u"
+  },
+  "weather": {
+    "url": "https://iptv-org.github.io/iptv/categories/weather.m3u"
+  },
+  "xxx": {
+    "url": "https://iptv-org.github.io/iptv/categories/xxx.m3u"
+  },
+  "undefined": {
+    "url": "https://iptv-org.github.io/iptv/categories/undefined.m3u"
+  }
+}
