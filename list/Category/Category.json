@@ -1,4 +1,7 @@
 {
+  "best": {
+    "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+  },
   "sports": {
     "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
   },
